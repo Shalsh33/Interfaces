@@ -1,0 +1,3 @@
+[submodule "DJuegos"]
+	path = DJuegos
+	url = https://github.com/manuelacenteno/DJuegos.git
